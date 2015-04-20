@@ -1,0 +1,68 @@
+- Preparing customer meeting
+- Planning milestones and presentations
+- defining the scope of analysis, done
+- maybe interview agents in sales points, not possible
+- listing source of infos and  identifying in	puts the defining the scope based on the input.
+- Organize a presentation, 
+- Latex thesis
+- Talk to the Prototyping team
+- Innovation team created in Ericsson
+- Include the session aspect of interaction. 
+
+
+2 maybe weeks for each milestone
+
+- First milestone is to present what is to be accomplished/why is it relevant + Research problem and methodology, limitations and so on to both Jorg and Mike. for Jorg, Time plan is important
+
+Preliminary title.
+Background to the assignment. Why is it relevant?
+Aim for the work. What should be accomplished?
+The formulation of the problem at hand, the assignment. This should include and extended version of the scientific problem definition and references to knowledge within 
+the area given in the thesis proposal.
+Limitations. What should be left out and why?
+Method of accomplishment. How should the work be carried out?
+Time plan.
+
+- 2nd After  investigation: Evaluate info sources and present the outcome/challenges for touch points + getting feedback
+- 3rd Customer meeting to discuss the KPIs
+Thesis presentation to be arranged Beginning of June or mid June.
+
+Planning, literature study, Work, Attending webinars/lectures/meetings/ etc. , Project status report to the supervisor, presentations each 2 weeks, Starting to write and send to supervisor for corrections.
+
+
+Include Time plan/ resources/ project risks
+Include coarse grained planing and fine grained tasks that have to be achieved.
+
+- Quality is more important than quantity
+- Investigate the most exotic touch points and define the relevant KPIs that can be hard to measure: this is the innovation in this thesis.
+
+Talk to Mathias
+
+Find and get touch points
+
+
+Feedback about the presentation: Include dimensional levels,  entities : It is not only about what the operators does but also about the social environment, the friends etc..
+Discussion also about the results of the thesis, the areas that should be included e.g advertising, promotions and so on
+
+Other sources: Eridoc, Business Intelligence and Consumer lab
+
+KPIs and how to be calibrated
+
+
+create an index score for each touch point
+create Confidence score: how confident are we about the score based on available input data
+Ideal validation is to be done as part of the future work, mentioned in the thesis.
+Technical validation is what will be done.
+
+Measurement ways
+Total experience index
+
+OPEN DATA idea
+
+Meeting with Mattias
+Find the MSDP product and get some info from it
+Getting more tangible KPIs and measurable ones.
+Surveys problems is response rate and only non satisfied customers respond ..
+Hierarchical Recommendations or referrals from customers to other customers
+Adding another column about customer point of view of this KPIs (using RFGs etc)
+Product catalogue investigation, mcommerce amdocs, oracle etc
